@@ -32,7 +32,7 @@ pip install flash-attn --no-build-isolation
 ### CLI Inference
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python demo/cli.py --model-path your/path/to/videollava-7b-vad-lora --model-base your/path/to/Video-LLaVA-7B --file your/path/to/video.mp4
+CUDA_VISIBLE_DEVICES=0 python demo/cli.py --model-path your/path/to/holmesvad-lora --model-base your/path/to/Video-LLaVA-7B --file your/path/to/video.mp4
 ```
 
 ### Gradio Web UI
