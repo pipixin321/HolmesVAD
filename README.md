@@ -6,7 +6,7 @@ Video Anomaly Detection via Multi-modal LLM</a></h2>
 
 [🎨 Project Page](https://holmesvad.github.io/)
 
-<div align="center"><video src="assets/holmesvad.mp4" width="800"></div>
+<div align="center"><video src="https://github.com/pipixin321/HolmesVAD/assets/holmesvad.mp4" width="800"></div>
 
 </div>
 
