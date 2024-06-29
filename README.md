@@ -1,9 +1,17 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/xxx">Holmes-VAD: Towards Unbiased and Explainable
+<div align="center">
+
+<h2 align="center"> <a href="https://arxiv.org/abs/2406.12235">Holmes-VAD: Towards Unbiased and Explainable
 Video Anomaly Detection via Multi-modal LLM</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
+[🎨 Project Page](https://holmesvad.github.io/)
+
+<div align="center"><video src="assets/holmesvad.mp4" width="800"></div>
+
+</div>
+
 ## 📰 News
-* **[2024.06.12]** 👀 Our **HolmesVAD** and **VAD-INstruct50k** will be available soon, welcome to **star** ⭐ this repository for the latest updates.
+* **[2024.06.12]** 👀 Our **HolmesVAD** and **VAD-Instruct50k** will be available soon, welcome to **star** ⭐ this repository for the latest updates.
 
 
 ## 😮 Highlights
