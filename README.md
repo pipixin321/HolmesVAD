@@ -9,6 +9,7 @@ Video Anomaly Detection via Multi-modal LLM</a></h2>
 </div>
 
 ## 📰 News
+* **[2024.07.01]** 🔥🔥🔥 Our inference code is available, and we release our model at [[HolmesVAD-7B]](https://huggingface.co/ppxin321/HolmesVAD-7B).
 * **[2024.06.12]** 👀 Our **HolmesVAD** and **VAD-Instruct50k** will be available soon, welcome to **star** ⭐ this repository for the latest updates.
 
 
@@ -59,7 +60,7 @@ pip install flash-attn --no-build-isolation
 ### CLI Inference
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python demo/cli.py --model-path your/path/to/holmesvad-lora --model-base your/path/to/Video-LLaVA-7B --file your/path/to/video.mp4
+CUDA_VISIBLE_DEVICES=0 python demo/cli.py --model-path ./checkpoints/HolmesVAD-7B --file ./demo/examples/vad/RoadAccidents133_x264_270_451.mp4
 ```
 
 ### Gradio Web UI
