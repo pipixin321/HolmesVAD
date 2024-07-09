@@ -44,13 +44,20 @@ Towards open-ended Video Anomaly Detection (VAD), existing methods often exhibit
 * CUDA Version >= 11.7
 * transformers >= 4.37.2
 * Install required packages:
+
 ```bash
+# inference only
 git clone https://github.com/pipixin321/HolmesVAD.git
 cd HolmesVAD
 conda create -n holmesvad python=3.10 -y
 conda activate holmesvad
 pip install --upgrade pip  # enable PEP 660 support
 pip install -e .
+pip install decord opencv-python pytorchvideo
+```
+
+```bash
+# additional packages for training
 pip install -e ".[train]"
 pip install flash-attn --no-build-isolation
 ```
