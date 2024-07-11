@@ -75,3 +75,4 @@ CUDA_VISIBLE_DEVICES=0 python demo/cli.py --model-path ./checkpoints/HolmesVAD-7
 ```bash
 CUDA_VISIBLE_DEVICES=0 python demo/gradio_demo.py
 ```
+<img src="assets/demo.gif" />

@@ -2,3 +2,4 @@ checkpoints
 temp
 __pycache__
 holmesvad.egg-info
+cache_dir
