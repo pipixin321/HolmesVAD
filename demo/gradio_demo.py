@@ -224,5 +224,5 @@ if __name__ == "__main__":
         clear_btn.click(clear_history, [state, state_],
                         [video_frame, image1, video, textbox, first_run, state, state_, chatbot, images_tensor])
 
-    demo.launch()
+    demo.launch(server_port=8000)
 

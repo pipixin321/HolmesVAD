@@ -76,3 +76,18 @@ CUDA_VISIBLE_DEVICES=0 python demo/cli.py --model-path ./checkpoints/HolmesVAD-7
 CUDA_VISIBLE_DEVICES=0 python demo/gradio_demo.py
 ```
 <img src="assets/demo.gif" />
+
+
+## Citation
+
+If you find this repo useful for your research, please consider citing our paper:
+
+```bibtex
+@article{zhang2024holmes,
+  title={Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM},
+  author={Zhang, Huaxin and Xu, Xiaohao and Wang, Xiang and Zuo, Jialong and Han, Chuchu and Huang, Xiaonan and Gao, Changxin and Wang, Yuehuan and Sang, Nong},
+  journal={arXiv preprint arXiv:2406.12235},
+  year={2024}
+}
+```
+---
