@@ -77,6 +77,8 @@ CUDA_VISIBLE_DEVICES=0 python demo/gradio_demo.py
 ```
 <img src="assets/demo.gif" />
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/pipixin321/HolmesVAD.svg)](https://starchart.cc/caoyunkang/Segment-Any-Anomaly)
 
 ## Citation
 
