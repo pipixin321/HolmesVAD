@@ -9,6 +9,7 @@ Video Anomaly Detection via Multi-modal LLM</a></h2>
 </div>
 
 ## 📰 News
+* **[2025.01.05]** 🔥🔥🔥We release [Holmes-VAU](https://github.com/pipixin321/HolmesVAU), an upgraded version of Holmes-VAD, featuring improvements in annotation granularity, quantity, and quality, as well as utilizing a more powerful foundational MLLM model. The `HIVAU-70k` benchmark is available now, please stay tuned!
 * **[2024.07.01]** 🔥🔥🔥 Our inference code is available, and we release our model at [[HolmesVAD-7B]](https://huggingface.co/ppxin321/HolmesVAD-7B).
 * **[2024.06.12]** 👀 Our **HolmesVAD** and **VAD-Instruct50k** will be available soon, welcome to **star** ⭐ this repository for the latest updates.
 
